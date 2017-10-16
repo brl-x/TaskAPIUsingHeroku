@@ -1,0 +1,4 @@
+module CSQLite {
+    umbrella "/Users/ejimenez/Downloads/Swift4ProgrammingCookbook_Code/Chapter07/ServerSideSwift-master/TaskAPIUsingHeroku/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include"
+    export *
+}

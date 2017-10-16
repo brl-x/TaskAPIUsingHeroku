@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/Users/ejimenez/Downloads/Swift4ProgrammingCookbook_Code/Chapter07/ServerSideSwift-master/TaskAPIUsingHeroku/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include"
+    export *
+}
